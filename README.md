@@ -16,11 +16,9 @@ Apples are one of the most popular fruits in the world. They can be eaten as is 
 
 # Basic usage
 
-## Image
+## Apple Pie
 
-_Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, 
-dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 
-20th century after the earring worn by the girl portrayed there.[^1]
+Apple pie is one of the most famous desserts made with apples. The dessert is made with pie crust and an apple filling made with cinnamon, nutmeg, allspice, and sugar, in addition to the apples. The pie is most commonly eaten around American holidays in the fall like Thanksgiving and Christmas. Many people choose to eat apple pie fresh out of the oven with a scoop of vanilla ice cream on top.
 <param ve-image 
        label="Girl with a Pearl Earring" 
        description="painting by Johannes Vermeer" 
