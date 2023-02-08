@@ -4,7 +4,7 @@
 <param ve-config 
        title="Apples"
        author="Jules Andersen"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://cdn.britannica.com/22/187222-050-07B17FB6/apples-on-a-tree-branch.jpg 
+       banner="https://iiif.juncture-digital.org/banner/?url=https://cdn.britannica.com/22/187222-050-07B17FB6/apples-on-a-tree-branch.jpg" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
