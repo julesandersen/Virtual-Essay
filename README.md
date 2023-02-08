@@ -20,10 +20,10 @@ Apples are one of the most popular fruits in the world. They can be eaten as is 
 
 Apple pie is one of the most famous desserts made with apples. The dessert is made with pie crust and an apple filling made with cinnamon, nutmeg, allspice, and sugar, in addition to the apples. The pie is most commonly eaten around American holidays in the fall like Thanksgiving and Christmas. Many people choose to eat apple pie fresh out of the oven with a scoop of vanilla ice cream on top.
 <param ve-image 
-       label="Girl with a Pearl Earring" 
+       label="Apple Pie a la Mode" 
        description="painting by Johannes Vermeer" 
        license="public domain" 
-       url="[https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg])">
+       url="https://julesandersen.github.io/Virtual-Essay/images/apple_pie2.jpg">
 
 ## Map
 
