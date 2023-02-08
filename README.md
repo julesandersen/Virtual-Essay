@@ -10,7 +10,7 @@
 
 # What are apples?
 
-Apples are one of the most popular fruits in the world. They can be eaten as is or within thousands of recipes. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
+Apples are one of the most popular fruits in the world. They can be eaten as is or within thousands of recipes. Various [recipes]([https://github.com/JSTOR-Labs/juncture/wiki](https://www.delicious.com.au/recipes/collections/gallery/35-clever-ways-to-use-up-leftover-apples/bdh2gkl8)) for apples are available for viewing and usage.
 <param ve-image 
        manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
 
