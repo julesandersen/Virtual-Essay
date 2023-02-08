@@ -12,7 +12,7 @@
 
 Apples are one of the most popular fruits in the world. They can be eaten as is or within thousands of recipes. Various [recipes](https://www.delicious.com.au/recipes/collections/gallery/35-clever-ways-to-use-up-leftover-apples/bdh2gkl8) for apples are available for viewing and usage.
 <param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
+       url="https://www.simplyrecipes.com/thmb/SeOrwAcn5dAuazvh-AhlrDbAd24=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Simply-Recipes-Homemade-Apple-Pie-LEAD-04-11db861782aa4ebdb5ef9948125ef0ef.jpg">
 
 # Basic usage
 
